@@ -1,0 +1,77 @@
+sudoku.exe -n 84
+sudoku.exe -n 86
+sudoku.exe -n 47 -r 38~38
+sudoku.exe -n 49 -r 49~36
+sudoku.exe -n 4
+sudoku.exe -n 38 -r 28~51
+sudoku.exe -n 4 -m 2
+sudoku.exe -n 43 -r 38~49
+sudoku.exe -n 54
+sudoku.exe -c 23
+sudoku.exe -n 101 -r 22~44
+sudoku.exe -n 11 -r 28~39
+sudoku.exe -n 19 -r 29~40
+sudoku.exe -s file.txt85
+sudoku.exe -s file.txt96
+sudoku.exe -n 11
+sudoku.exe -s file.txt9
+sudoku.exe -c 77
+sudoku.exe -s file.txt81
+sudoku.exe -s file.txt64
+sudoku.exe -n 48 -r 30~44
+sudoku.exe -s file.txt46
+sudoku.exe -s file.txt2
+sudoku.exe -n 48
+sudoku.exe -n 46
+sudoku.exe -n 88 -m 1
+sudoku.exe -s file.txt83
+sudoku.exe -s file.txt55
+sudoku.exe -n 25
+sudoku.exe -n 83 -r 45~44
+sudoku.exe -n 67 -m 2
+sudoku.exe -c 23
+sudoku.exe -n 93
+sudoku.exe -n 43 -m 3
+sudoku.exe -n 43
+sudoku.exe -n 23
+sudoku.exe -n 17
+sudoku.exe -c 8
+sudoku.exe -n 8 -m 3
+sudoku.exe -n 25 -m 1
+sudoku.exe -n 8 -r 42~39
+sudoku.exe -c 51
+sudoku.exe -n 5
+sudoku.exe -s file.txt61
+sudoku.exe -s file.txt29
+sudoku.exe -c 83
+sudoku.exe -n 27 -m 3
+sudoku.exe -n 42
+sudoku.exe -c 8
+sudoku.exe -n 19 -r 31~45
+sudoku.exe -c 53
+sudoku.exe -n 42
+sudoku.exe -s file.txt50
+sudoku.exe -n 13 -m 3
+sudoku.exe -n 54 -r 41~46
+sudoku.exe -c 34
+sudoku.exe -c 67
+sudoku.exe -n 53 -m 2
+sudoku.exe -n 51 -r 39~39
+sudoku.exe -s file.txt92
+sudoku.exe -n 49 -r 40~39
+sudoku.exe -c 100
+sudoku.exe -n 62 -r 29~43
+sudoku.exe -n 31
+sudoku.exe -c 7
+sudoku.exe -n 7 -m 3
+sudoku.exe -c 27
+sudoku.exe -s file.txt54
+sudoku.exe -s file.txt23
+sudoku.exe -n 95 -m 1
+sudoku.exe -c 84
+sudoku.exe -c 75
+sudoku.exe -n 11 -m 1
+sudoku.exe -s file.txt63
+sudoku.exe -s file.txt84
+sudoku.exe -n 77 -m 1
+sudoku.exe -s file.txt16
